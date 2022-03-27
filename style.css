@@ -1,0 +1,13 @@
+#brithe{
+    background-color: rgb(97, 4, 4);
+font-size: 40px;
+}
+body{ 
+    height: 100vh;
+    background-image: url(./img/274826702_377131367562562_2016469119857115694_n.jpg);
+    background-size: cover;
+}
+h4{
+    background-color: hotpink;
+    font-size: medium;
+}
